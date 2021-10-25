@@ -1,0 +1,53 @@
+<header> - cabeçalho, é uma div
+<main> - é o conteúdo principal, tbm é uma div
+<footer> - rodapé, ttbm é uma div
+<nav> - navegação, colocar links
+<section> - sessão, div
+<article> - aritgo, div
+<aside> - vai dentro de algo, div
+
+
+
+
+
+A BASE DE UM INÍCIO DO SITE  
+
+
+
+
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href=" #">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+        
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p>Esportes e politicas</p>
+
+        </section>
+        <section id="noticias">
+
+            <article>
+                <h2>Notícia sobre o Brasil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora alias rem vero. Accusantium perspiciatis assumenda sapiente veniam eius ex minus eum voluptate quis accusamus tempore, rem voluptatum deleniti ratione quas.</p>
+                <aside>Artigo escrito por Mineiro
+                 </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+
+    </main>
+    <footer>
+        <p>Produzido por Mineiro</p>
+
+    </footer> 

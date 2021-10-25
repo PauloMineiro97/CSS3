@@ -1,0 +1,21 @@
+:root > é uma pseudo-classe que todo documento tem > É a raíz da árvore do documento
+
+As variáveis iniciam com --
+
+
+:root {
+    --cor01: #005C32;
+    --corbg: #6fd8a9;
+    --cor03: #00DB77;
+    --corh1: #1C5C3F;
+    --cor05: #00A85D;
+
+
+
+
+
+*{} - é para todos os elementos EX :
+
+*{
+ margin: 0px
+Será 0 px para todos os elementos 

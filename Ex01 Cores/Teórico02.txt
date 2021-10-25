@@ -1,0 +1,63 @@
+Fazendo Degradê:
+ Na parte <Head>
+Criar a tag <style>
+  body {
+         baclground-image: linear-gradient ( to top, to bottom, to left, to right, cor1 ex:orange, cor2 ex: blue)                                   os lados possíveis para fazer 
+                                                           degradê 
+       }
+
+
+Para colocar to top or to bottom, use the tag na primeira parte da TAG <style> :
+* { /* Configurações globais das CSS*/
+            height: 100%;
+ 
+
+Pode usar a opção de graus para colocar a posição do degradê
+Ex: 45deg, 60deg ...
+Pode usar a porcentagem para que cada cor tenha um determinado espaço no site
+
+
+Tags :
+
+border-radius: 10px - ARREDONDAMENTO DA BORDA
+box-shadow: 5px 5px 15px  + COR - SOMBREAMENTO 
+text-shadow - SOMBREAMENTO DO TEXTO
+width: 100px - LARGURA DA CAIXA DE TEXTO
+padding: 10px - ALONGAMENTO DA CAIXA DE TEXTO PARA UMA MELHOR VISUALIZAÇÃO
+margin: auto - CENTRALIZAR O TEXTO 
+background-image: linear-gradient - PARA COLOCAR DEGRADÊ
+
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+
+@charset "UTF-8";
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*height: 100%;*/*
+
+}
+body {
+    background-image: linear-gradient( to right, #A7ECCA, #286B4A);
+}
+main {
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #101b0ca6;
+    width: 650px;
+    padding: 15px;
+    margin: auto;
+    
+}
+h1{
+    color: #42A1A1;
+    text-align: center;
+    text-shadow: 1px 1px 2px #101b0ca6;
+}
+h2 {
+    color: #235454;
+}
+p {
+    text-align: justify;
+}

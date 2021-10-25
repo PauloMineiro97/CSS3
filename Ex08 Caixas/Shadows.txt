@@ -1,0 +1,24 @@
+BOX-SHADOW: 1px 1px 1px + color
+
+1°px- deslocamento horizontal
+2ºpx- deslocamento vertical
+3ºpx- espalhamento
+
+
+VÉRTICES:
+
+border-radius: 10px 10px 30px 10px;
+
+1ºpx- top-left
+2ºpx- top-right
+3ºpx- bottom-right
+4ºpx- bottom-left
+
+Caso use apenas duas medidas
+
+border-radius: 10px 20px
+
+1ºpx - top-left and bottom-right
+2ºpx - top-right and bottom-left
+
+border-radius:50% - cria um círculo

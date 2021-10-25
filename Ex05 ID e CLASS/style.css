@@ -1,0 +1,33 @@
+@charset "UFT-8" ;
+
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: lightcyan;
+    
+
+}
+#principal {
+    text-align: center;
+    color: mediumaquamarine;
+    background-color: ;
+    
+}  
+.basico {
+    background-color: rgba(255, 127, 80, 0.452);
+    color: darkgoldenrod;
+}
+
+.intermediario {
+    background-color: rgba(112, 87, 56, 0.534);
+    color:  coral;
+}
+p {
+    color: burlywood;
+}
+.destaque {
+    background-color: crimson;
+    color: cyan;
+}

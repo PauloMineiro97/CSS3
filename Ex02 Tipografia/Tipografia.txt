@@ -1,0 +1,33 @@
+tamanhos das fontes
+
+A base dos tamanhos das letras minúsucula é a letra X minúscula
+
+Altura das maiúsculas - altura da letra maiúscula maior do texto
+Altrua x - altura da letra minúscula base do texto, que é o X
+descendente - medida da letra vazada para baixo...EX q,p,j,g
+ascendente - medida da letra vazada para cima... EX b,d,k,t,l
+Somando todas as alturas dá-se o nome de CORPO
+
+Anatomia do tipo
+
+serifa  - São traços nos finais do desenho de cada letra, nem todas letras têm serifas e nem todas fontes tbm têm
+
+Haste - A,K,
+Filete - São traços que ligam hastes ou arcos: A,H,e
+Arco - na letra "n", há duas hastes e um arco que liga as hastes
+esporão - é a base de algumas letras, q dão sustentação
+Vértice- é a ponta de uma letra, o pico do A é um vértice
+braço - Na letra K, a parte q se inclina para cima saindo da haste
+é um braço
+Perna - a parte que está de maneira declinada é chamada de perna e ela tem um PÉ que por fim tem uma serifa
+Espinha - São as curvas da letra S
+Barriga- letras como b,d, formam barrigas entre dois arcos
+Olho - letras fechadas como b,e,q,o, são chamadas de olho a parte interna do círculo 
+Orelha - na letra g tem uma pequenha orelha na parte superior direito
+Cauda- Também na letra g há uma cauda na parte inferior 
+Glifos - São letras de uma fonte, conjunto de glifos formam fontes
+
+
+família tipográfica : São várias tamanhos de uma letra 
+
+Categorias de Fontes : Serifadas, Sans-serif (sem serifa), monoespaçadas(letras com o mesmo espaçamento), handwriting(semelhante a calegrafia humana), display (fontes comemorativas, fontes de ideias)

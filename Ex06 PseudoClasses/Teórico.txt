@@ -1,0 +1,57 @@
+As pseudos-classes são representadas por ' : '
+ Ela fica dentro de um elemento
+EX: div:hover {
+              }
+hover é uma pseudo-classe na variável div
+
+display: inline-black- Para divs na mesma linha
+display:none; - para esconder algo
+ 
+
+div > p {
+            display:none;  > Aqui representa que dentro da div tem um parágrafo e que ele ficará escondido
+
+
+Usando a div:hover > p{} - Fará com que o parágrado apareça
+
+
+para delimitar o tamanho do back-ground- USAR width:
+
+padding-right: 20px;
+            padding-left: 20px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+                      
+
+
+
+
+
+<style>
+        div{
+            display: inline-block;   para deixar as divs na mesma linha
+            background-color: aqua;
+            border: 1px solid white;
+            text-align: center;
+            height: 200px;
+            width: 200px;
+            padding: 10px;
+
+        }
+
+        #d1:hover {
+              background-color: tomato;
+        }
+    </style>
+
+
+
+
+
+
+
+<body>
+    <div id="d1">01</div>
+    <div id="d2">02</div>       
+    <div id="d3">03</div>
+</body>

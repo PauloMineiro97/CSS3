@@ -1,0 +1,21 @@
+Existem três tipos de cores
+
+Primárias - Amarelo, Vermelho e Azul
+Secundárias - Laranja, Violeta e Verde
+Terciárias - São misturas das cores primárias e secundárias( amarelo-esverdeado, amarelo-alaranjado, azul-esverdeado, azul-arroxeado, vermelho, arroxeado, vermelho-alaranjado)
+
+Temperaturas de Cor
+Cores frias - amarelos-esverdeado, verde, azul-esverdeado, azul, azul-arroxeado, roxo)
+Cores quentes - amarelo, amarelo-alaranjado, laranja, vermelho-alaranjado, vermelho, vermelho-arroxeado) 
+
+Cores Complementares 
+É só fazer uma ligação em linha reta entre as cores no círculo cromático
+
+Cores Análogas
+São as cores que são vizinhas entre si no círculo cromático
+
+Cores Análogas Relacionadas
+Use duas cores vizinhas, pule uma casa de cor e use a próxima no círculo cromático
+
+Monocromia
+Usa apenas uma cor, mudando a saturação e a luminosidade.

@@ -1,0 +1,37 @@
+Criando ID no CSS:
+
+Dentro do <body> no <h1>, coloque a identificação id=nomeX
+Vá no Css e coloque em # + o nome dado e configure
+<body>
+    <h1 id="principal">Site em HTML e CSS</h1>
+
+#principal {
+    text-align: center;
+    color: mediumaquamarine;
+
+tudo em HTML que for id= é o mesmo que cerquilha # no CSS
+
+isso serve para fazer alterações de maneira isolada
+Quando houver vários H2 e for necessário fazer de várias formas, use o id em um H2 e configure no CSS
+
+PRATIQUE!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------------------------------------
+
+
+Tudo que é class em  HTML , é . em CSS
+
+São dois H2, apertando ALT, da pra escrever nas duas linhas a opção de configuração escolhida.
+
+<h2 class="basico" >HTML Básico</h2>
+<h2 class="basico">
+
+deixando assim no CSS :
+
+.basico {
+    background-color: rgba(255, 127, 80, 0.452);
+    color: darkgoldenrod;
+
+
+Usando SPAM
+Envelope um trecho do texto com Ctrl+shift+p, selecione Wrap with abbreviation,  coloque a tag <spam class="basico">
+O trecho selecionado ficará configurado conforme está as demais .basico 

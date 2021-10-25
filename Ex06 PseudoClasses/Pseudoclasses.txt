@@ -1,0 +1,3 @@
+visited : mostrar algo que já foi selecionado
+hover :  esconder algo e só mostar quando clicado ou o mouse ter passado por cima
+active : mostrar o q já foi ativado

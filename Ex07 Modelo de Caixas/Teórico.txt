@@ -1,0 +1,20 @@
+Criando um caixa:
+
+
+Dentro da caixa, usar alguns elementos para deixá-la mais bela
+
+Usar o elemento PADDING para preencher mais a caixa e assim dar mais espaço entre a borda e o conteúdo
+
+Usar o elemento BORDER para criar uma borda em volta do conteúdo
+
+Usar o elemento MARGIN para dar distância entre duas caixas, é visível da borda pra fora de uma caixa
+
+Outline- pode ser usado fora da margin
+
+
+
+TIPOS DE CAIXA:
+
+Box-Level =div - essa caixa sempre vai iniciar em outra linha e vai ocupar a tela inteira, também  faz quebra linhas
+
+Inline-level = span - é uma caixa que da continuidade na mesma linha do contéudo e quando termina, da continuidade na mesma linha, sem quebra de linhas

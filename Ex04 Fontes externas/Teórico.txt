@@ -1,0 +1,23 @@
+ 
+Importar uma fonte do site fonts.google.com, copiar o url, colocar na parte <HEAD> a TAG <style> e dentro dela colocar o @import ...
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+        h1{
+            font-family: shadows into light;
+
+
+toda TAG usando @ deve vir no início 
+
+---------------------------------------------------------------------
+no <style>
+@font-face {
+           font-family : ;
+           src url('LoveaHegena.otf')  format()
+
+O format () pode ser opentype(otf) ou truetype(ttf)
+     
+
+
+
+

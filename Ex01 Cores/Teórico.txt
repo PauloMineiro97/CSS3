@@ -1,0 +1,23 @@
+Representação por nomes
+=
+background-color:blue ; color: white
+
+
+
+<Representação por códigos hexadecimais
+    Decimal : 0 1 2 3 4 5 6 7 8 9-->
+    HExadecimal : 0 1 2 3 4 5 6 7 8  9 A B C D E F
+=
+background-color:#0000ff ;color: #ffffff
+
+
+
+Representação RGB
+=
+background-color: #4747a7; color:rgb(255,255,255
+
+
+
+Representação por HSL(Hue, Saturation, Luminosity)
+=
+background-color: hsla(240, 100%, 50%, 0.336); color: hsl(0, 0%, 100%

@@ -1,0 +1,34 @@
+Trabalhando Fontes
+
+text-indent:30px; - É o parágrafo
+
+
+
+Inline:
+<body style="font-family: Arial;">
+
+Medidas das Fontes:
+ Medidas Absolutas:
+   cm(centímetro), mm(milímetro), in(polegada), px(pixel), pt(ponto), pc(paica)
+
+ Medida Relativas
+   em(altura M, altura da letra maiúscula), ex(tamanho da altura x minúscula), rem(fonte configurada no BODY), vw( view port, largura da tela), vh(altura da view port), %
+
+
+
+Peso das Fontes:
+Pode ser usada das seguintes formas, da maneira numérica de 100 à 900; ou descritas como lighter(fina), normal, bold(grossa), bolder(estra-grossa):
+É necessário usar a TAG @import na parte interior da TAG <style> no HEAD
+
+font-weight:
+
+
+shorthand - é o agrupamento ordenado de font-style, font-weight, font-size, font-family
+
+font: style, weight, size, family
+font: italic bolder 2em sans-serif
+
+font-style - italic
+font-weight - bolder or 400;
+font-size - 3em
+font-family - arial, sans-serif

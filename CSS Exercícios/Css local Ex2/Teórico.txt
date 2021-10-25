@@ -1,0 +1,27 @@
+Para usar a CCS local, de uso em apenas uma única página ele é válido.
+
+
+Na parte HEAD coloque a TAG <style> 
+
+
+E pega parte <body>, coloque body{aqui dentro use as modificações}
+Agora interpréte o CODE que está aqui embaixo
+
+
+
+ <style>
+     body {
+         background-color: aqua;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-size: 20px;
+    }
+    h1 {
+        color: blueviolet;
+    } 
+    h2 {
+        color: chocolate;
+    }
+    p {
+        color: rgb(226, 184, 14);
+        text-align: center;
+    }

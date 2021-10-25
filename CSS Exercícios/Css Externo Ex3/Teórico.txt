@@ -1,0 +1,39 @@
+Para usar o CSS em todas as páginas de maneira igual
+
+Na página principal, na parte <head>, criar a TAG <link: css que ficará assim:
+<link rel="stylesheet" href="style.css">
+                            No style, aperte o CTRL+ botão esquerdo do mouse
+                            Vai criar uma pagina CSS, ali será possível incluir outras páginas
+                            Na mesma maneira, criando a TAG link:css, nas demais páginas.
+Coloque: @charset "UTF-8", para a página aceitar acentuações
+
+Ficará assim :
+
+@charset "UTF-8";
+body {
+    background-color: rgb(157, 235, 235);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h1 {
+   background-color: teal;
+   color: turquoise;
+   text-decoration: underline;
+} 
+h2 {
+   color: rgb(124, 51, 8);
+}
+p {
+   color: white;
+   text-align: justify;
+}
+
+
+-----------------------------------------------------------------------------
+
+<p><a href="pagina02.html" target="_self">Ir para a página 2</a></p>
+
+Quando quiser criar uma página de maneira rápida
+Monte a TAG âncora <a href="página02.html" target="_self">
+                           Aqui na página02.html, selecione e aperte o CTRL e
+                           crie uma nova página

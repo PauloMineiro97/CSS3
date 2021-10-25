@@ -1,0 +1,8 @@
+Usar as tags:
+
+min-width:
+max-width:  Ambas para ter responsividade nos textos
+
+img{
+    width:100%        Para ter responsividade nas imagens
+}

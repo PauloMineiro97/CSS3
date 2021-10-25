@@ -1,0 +1,35 @@
+border-width : 3px ;
+            border-style: groove;
+            border-color: darkgoldenrod;
+
+SHORTHAND - border: 5px groove darkgoldenrod;
+                  LARGURA, ESTILO E COR
+
+
+
+
+padding-TOP: 20px;
+            padding-RIGHT: 20px;
+            padding-BOTTOM: 50px;
+            padding-LEFT: 50px;
+
+
+ SHORTHAND - padding: 20px 15px 20px 15px;                     
+
+
+
+margin-top: 25px;
+            margin-right: 25px;
+            margin-bottom: 25px;
+            margin-left: 75px;
+
+SHORTHAND - margin: 25px 75px 25px 75px;
+
+
+outline-width: 5px;
+            outline-style: dotted;
+            outline-color: darkgoldenrod;
+
+SHORTHAND - outline: 15px dotted darkgoldenrod
+
+O outline fica dentro da MARGIN
